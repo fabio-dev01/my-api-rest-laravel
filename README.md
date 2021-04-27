@@ -12,3 +12,5 @@
 <h3> Guide </h3>
 - Make requests using POSTMAN
 - API routes are at: <i> routes > api </i>
+<h5> Fields </h5>
+- name, email && phone
